@@ -1,5 +1,7 @@
 # 💫 About Me:
-@@I'm a lover of technology and art@@<br><br>+ Living in São Paulo, Brazil 🇧🇷<br>! NodeJS and React programmer<br># Interested in Front-end/Back-end
+```diff
+@@I'm a lover of technology and art@@<br><br>+ Living in São Paulo, Brazil 🇧🇷<br>+ NodeJS and React programmer<br>+ Interested in Front-end/Back-end
+```
 
 
 # 💻 Tech Stack:
