@@ -1,6 +1,10 @@
 # 💫 About Me:
 ```diff
-@@I'm a lover of technology and art@@<br><br>+ Living in São Paulo, Brazil 🇧🇷<br>+ NodeJS and React programmer<br>+ Interested in Front-end/Back-end
+@@ I'm a lover of technology and art @@
+
++ Living in São Paulo, Brazil 🇧🇷
++ NodeJS and React programmer
++ Interested in Front-end/Back-end
 ```
 
 
